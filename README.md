@@ -2,7 +2,7 @@
 If you have ever wanted to delete your thousands of photos from the [Google Photos](https://photos.google.com/) but failed to find an easy way to do so, then this is the tool for you. This script goes through all your photos in Google Photos app on the desktop and deletes them. You can visually see the process while it happens!
 
 # This version
-This fork waits intelligently until the DOM element representing the current deletion "Moving X items" disappears. It will check for this every TIM_CONFIG->delete_cycle seconds.
+This fork waits intelligently until the DOM element representing the current deletion "Moving X items" disappears. It will check for this every TIME_CONFIG->delete_cycle seconds.
 
 # Getting Started
 Follow the step-by-step instructions below to run the tool.
